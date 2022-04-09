@@ -1,7 +1,7 @@
 {
-  "name": "music-bot-v2",
+  "name": "Blek_sheep bot",
   "main": "main.js",
-  "author": "amarwhy#3272",
+  "author": "BLEKSHEEP",
   "description": "Cool Discord Music Bot that will hopefully not get taken down by Discord. Bot by amarwhy#3272! Add me to your Server! https://discord.com/api/oauth2/authorize?client_id=958500140719693844&permissions=8&scope=bot",
   "scripts": {
     "start": "node main.js"
